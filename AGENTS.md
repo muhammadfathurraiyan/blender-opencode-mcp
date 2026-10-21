@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Blender scene sandbox, not a software project. There is no source code, package manifest, build, test, lint, typecheck, or CI. Root contents are `explore-mcp.blend` (binary asset), `opencode.jsonc`, `README.md` (setup guide), and this file. Git has **no commits yet** on `master`; everything, including `.DS_Store`, is untracked.
+Blender scene sandbox, not a software project. There is no source code, package manifest, build, test, lint, typecheck, or CI. Root contents are `explore-mcp.blend` (binary asset), `opencode.jsonc`, `README.md` (setup guide), `.gitignore`, and this file. Git is committed on `main` with a GitHub remote; `.DS_Store` and `*.blend1` are ignored.
 
 ## Blender access
 
