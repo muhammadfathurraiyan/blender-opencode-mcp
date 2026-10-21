@@ -1,0 +1,17 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "opencode/nemotron-3.5-super-vl-free",
+  "mcp": {
+    "servers": {
+      "blender": {
+        "type": "local",
+        "command": [
+          "uvx",
+          "--from",
+          "git+https://projects.blender.org/lab/blender_mcp.git@v1.0.3#subdirectory=mcp",
+          "blender-mcp"
+        ]
+      }
+    }
+  }
+}
