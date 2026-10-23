@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "blender-mcp": {
+      "source": "vladmdgolam/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/blender-mcp/SKILL.md",
+      "computedHash": "17797f9705a617d44f2db36c29fe4cc73053d9bbcc6cebfc67f230867e827c9c"
+    },
+    "blender-modeling": {
+      "source": "roble3/cc-blender-skill",
+      "sourceType": "github",
+      "skillPath": "plugin/skills/blender-modeling/SKILL.md",
+      "computedHash": "66d23a57c0e11cdc21d9d06494810534354ad063c425e5848894927453ddcbd2"
+    }
+  }
+}
